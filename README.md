@@ -3,8 +3,10 @@ After Downloading the project, just open the CMD or Terminal in the project fold
 # pip install pandas
 
 commands to run the project
+
 # for perceptron learning:
 to learn weights form a file write, "python temp.py -learning (file Name).csv"
+
 for example:
 # python temp.py -learning learn.csv
 
