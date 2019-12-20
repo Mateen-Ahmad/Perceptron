@@ -1,3 +1,0 @@
-Precision: 100
-Recall: 100
-Accuracy: 100
