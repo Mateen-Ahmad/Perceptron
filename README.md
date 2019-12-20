@@ -13,5 +13,5 @@ to predict values write command "python temp.py -testing (file Name).csv"
 for example:
 # python temp.py -testing test.csv
 
-##Note:
-#you can run this code on any data set by just adding dateset file's name at the end of command
+# Note:
+# you can run this code on any data set by just adding dateset file's name at the end of command
