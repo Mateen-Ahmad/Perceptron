@@ -1,5 +1,5 @@
 # Perceptron
-After Downloading the project, just open the CMD or Terminal in pe project folder and write the following command to install pandas library on VS Code
+After Downloading the project, just open the CMD or Terminal in the project folder and write the following command to install pandas library on VS Code
 # pip install pandas
 
 commands to run the project
